@@ -1,1 +1,2 @@
 # FOOTING_GUI
+The idea of the project is to demonstrate the programmable calculations as well as comparison of ultimate bearing capacity as per (IS: 6403-1981), calculated from different methods, for given load, soil properties using ‘MATLAB’ and ‘MATLAB- GUI’. A bearing capacity analysis of shallow footings and for different shapes of foundations subjected to axial, eccentric, and inclined loading is presented for different types of soils.
